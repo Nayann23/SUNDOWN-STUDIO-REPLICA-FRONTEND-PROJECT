@@ -220,7 +220,7 @@ nav h3 {
     white-space: nowrap;
     display: inline-block;
     animation-name: move;
-    animation-duration: 10s;
+    animation-duration: 30s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
